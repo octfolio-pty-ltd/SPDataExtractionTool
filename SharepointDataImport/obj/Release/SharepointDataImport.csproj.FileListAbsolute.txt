@@ -1,0 +1,41 @@
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.exe.config
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.exe.manifest
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.application
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.exe
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.XmlSerializers.dll
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.pdb
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\CsvHelper.dll
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\System.ValueTuple.dll
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\CsvHelper.xml
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\System.ValueTuple.xml
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.csprojAssemblyReference.cache
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.Form1.resources
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.Properties.Resources.resources
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.csproj.GenerateResource.cache
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\Sharepoint Data Extract Tool.exe.manifest
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\Sharepoint Data Extract Tool.application
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.csproj.CopyComplete
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\Sharepoint Data Extract Tool.exe
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\Sharepoint Data Extract Tool.pdb
+C:\Users\Carlos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\Sharepoint Data Extract Tool.XmlSerializers.dll
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.exe.config
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.exe.manifest
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.application
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.exe
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.XmlSerializers.dll
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\Sharepoint Data Extract Tool.pdb
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\CsvHelper.dll
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\System.ValueTuple.dll
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\CsvHelper.xml
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\bin\Release\System.ValueTuple.xml
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.csprojAssemblyReference.cache
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.Form1.resources
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.Properties.Resources.resources
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.csproj.GenerateResource.cache
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.csproj.CoreCompileInputs.cache
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\Sharepoint Data Extract Tool.exe.manifest
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\Sharepoint Data Extract Tool.application
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\SharepointDataImport.csproj.CopyComplete
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\Sharepoint Data Extract Tool.exe
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\Sharepoint Data Extract Tool.pdb
+C:\Users\Carlos.Ramos\OneDrive - NearShore Technology\codingForFun\OCT_Export\SharepointDataImport\obj\Release\Sharepoint Data Extract Tool.XmlSerializers.dll
